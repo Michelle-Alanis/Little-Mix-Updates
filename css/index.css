@@ -6,9 +6,6 @@ header{background-color: white;height: 100px;text-align:center;}
 section#logo{background-color: white;float: left;width: 200px;margin-left: 575px;}
 section#links{background-color: white;}
 .centro{display: flex;align-items: center;}
-/*section#grupo{background-color: white;width: 100px; float: left;}
-section#integrantes{background-color: white;width: 100px; float: left;}
-section#albums{background-color: white;width: 100px; float: left;}*/
 
 nav{background-color: white;height: 440px;}
 section#little-mix{max-width: 50%;padding: 5px;font-family: Verdana;font-size: 18px;float: left;}
