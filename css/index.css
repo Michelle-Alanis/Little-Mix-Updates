@@ -1,9 +1,9 @@
 *{margin: 0; padding: 0;}
 body{background-color: white;}
 
-header{background-color: white;height: 100px;text-align:center;}
+header{background-color: white;height: 100px;}
 .alinear{margin-left: auto;margin-right: auto;}
-section#logo{background-color: white;float: left;width: 200px;margin-left: 575px;}
+section#logo{background-color: white;float: left;width: 60%;text-align: right;}
 section#links{background-color: white;}
 .centro{display: flex;align-items: center;}
 
