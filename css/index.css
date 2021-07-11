@@ -1,0 +1,31 @@
+*{margin: 0; padding: 0;}
+body{background-color: white;}
+
+header{background-color: white;height: 100px;}
+.alinear{margin-left: auto;margin-right: auto;}
+section#logo{background-color: white;float: left;width: 200px;margin-left: 575px;}
+section#links{background-color: white;}
+.centro{display: flex;align-items: center;}
+/*section#grupo{background-color: white;width: 100px; float: left;}
+section#integrantes{background-color: white;width: 100px; float: left;}
+section#albums{background-color: white;width: 100px; float: left;}*/
+
+nav{background-color: white;height: 440px;}
+section#little-mix{max-width: 50%;padding: 5px;font-family: Verdana;font-size: 18px;float: left;}
+p{margin-left: 15px;margin-right: 15px;margin-bottom: 15px;margin-top: 8px;}
+h1{margin: 15px; text-align: center;font-family: Calibri; font-style: italic; font-size: 25px;}
+section#foto-little-mix{max-width: 50%;margin-top: 30px; margin-left: 5px;font-family: Verdana;font-size: 18px;float: left;}
+h5{margin-top: 10px; font-style: italic; font-size: 12px;}
+
+main{background-color: white;height: 570px;}
+section#Jade{background-color: seagreen; height: 570px;max-width: 33%;float: left;font-family: Verdana;font-size: 16px;}
+section#Leigh-Anne{background-color: skyblue; height: 570px;max-width: 34%;float: left;font-family: Verdana;font-size: 16px;}
+section#Perrie{background-color: pink; height: 570px;max-width: 33%;float: left;font-family: Verdana;font-size: 16px;}
+
+footer{background-color: white;height: 600px;}
+section#dna{background-color: white;height: 300px;width: 33%;float: left;font-family: Verdana;font-size: 16px;}
+section#salute{background-color: white;height: 300px;width: 34%;float: left;font-family: Verdana;font-size: 16px;}
+section#get-weird{background-color: white;height: 300px;width: 33%;float: left;font-family: Verdana;font-size: 16px;}
+section#glory-days{background-color: white;height: 300px;width: 33%;float: left;font-family: Verdana;font-size: 16px;}
+section#lm5{background-color: white;height: 300px;width: 34%;float: left;font-family: Verdana;font-size: 16px;}
+section#confetti{background-color: white;height: 300px;width: 33%;float: left;font-family: Verdana;font-size: 16px;}
